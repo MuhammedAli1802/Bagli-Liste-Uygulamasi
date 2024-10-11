@@ -1,4 +1,5 @@
  C Programlama Dili İle  Oluşturulmuştur
+ 
  --> Tek yönlü bağlı listelerde aşağıdaki işlemleri gerçekleştirebiliriz
  - Bağlı listeye eleman ekleme
  - Listeleme
